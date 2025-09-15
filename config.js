@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "IK~H4sIAAAAAAAAA5VVXZOiOBT9L3nVGgRFwKquWkRFQFpFxI+teYgQMHybBBGn/O9T2N3T87A728tTSG7dnHvuOTc/QF5giizUgNEPUBJ8hQy1S9aUCIzAuApDREAXBJBBMAK2fnByehMZWVbcTEvC5fKShfRYI925SFznql3owl8Js2z9Ah5dUFanFPt/SDgsvYnHvzr69rg+GDOXu/fYcK94Yn8xKxtreSUWocPteb32X8CjzQgxwXk0Lc8oQwSmFmpWEJOvwRcsoi/142EilPPk1cKLgZ5WyrbpDd27S1zFly4nwZbNcrf9GnzJ6FSeaW/5+U6KB3x6mM/jeELdjnxD3EY4pilxZJGNDWH7Bp/iKEeBEaCcYdZ8mXfNjI+HA8f8M9aLcr4PjRUWZkpQiy6nF0qyt+xD2smWGW98Dfged2x+l4oZyvBqP7TX0onK88wp01neGVydO9re60SPBdX/HfiKfGgl+T+8Z9bGlwOuWsnZvJaTuS2e49uuEGeSz1ZIy5Kr4ucbdheF6Gvwl3nPMX1PVF3REYmtpav9ArtL4YI7pNC4zi5sGmxe+7vI+IQPWUX+hHKPjjkKlovjkdyFoXBfyOf7LguPuotmXmF6s8pcKLFHAo/nz4o19ofyq3F2LrUS+dcbaS7jYsB8zaS9jqmbrhcJGyuKXp4VJagxAjDiH11AUIQpI5DhIn/uDXpdAIPrBvkEsSe9ID2NdXepX0SFV/aZIEp3ZWFrV1+qw7URhJ43yaa7JkScY7yALihJ4SNKUTDHlBWksRGlMEIUjP7+3gU5urG3xrXX9fkuCDGhbJtXZVrA4KOrH4fQ94sqZ5sm97V2gQgY9T63EWM4j2jLY5VD4p/xFWlnyCgYhTCl6FeFiKAAjBip0C/XakXQEj/bqJpmSlPQBdmzITgAI6DwstTnZb7X5/mRJP1Fv9VtWliW33LEQBekzzBeFgeiICtDoa/Iw2dke/D4hbBNGCAGcUpb57zm06So9am1S3J60HXVjlQtUsFnRR/SeKM+EMLleoIOF8dfG17H6YdiuGX3htOrPMW7G18rO0zJIsb1yz8kASMwYdvNvPd64BawznbSyhyYolA5ENZjpRS482QTjXntdlrDfMw7/kneHTzWhGa02jfsdBZs5zi9x1l88aOz2RsscXUUtVZHXRCgK/bR75d5fWnL+ZPbVbW38akfhyk3nVwWXHxynfWYSkfjolhazbn1cm5ckrk5DaB6wvGRXcxku14I0lU9NLEjwNc+P7bVYRO55/WbaJ+mSd+HFX7Kqe1V+xti9PR+DtsO/nfv3oC3Eus9ur/leJ8m/+LI8T7I74naz6xkP9VmYRL0O3t+4cvXGynFQ0oDf+UVxGoGAwoej+9dUKaQhQXJwAjAPCAFDkAXkKJqNWvkYfGnGasaxvTdrimkTP30gYszRBnMSjDiJVFSeoo4GL5FrUhRziE9t6+LPbNW61bUjVqWGwbZh62A2n7j1AKPn3GNo4FyBwAA",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
@@ -41,7 +41,7 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "917005972085",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "918731810311",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "AKUM",
 // add bot owner name
